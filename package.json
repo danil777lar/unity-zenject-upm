@@ -1,0 +1,14 @@
+{
+  "name": "com.larje.extenject",
+  "version": "9.2.0",
+  "displayName": "Extenject (Larje)",
+  "description": "Extenject 9.2.0 dependency injection framework (Zenject fork by Mathijs Bakker) repackaged as a UPM git package. Includes Signals, Memory Pool Monitor, Reflection Baking and Test Framework. MIT license.",
+  "unity": "2019.3",
+  "author": {
+    "name": "Danil Kolbasenko",
+    "email": "danil777lar@gmail.com",
+    "url": "https://github.com/danil777lar"
+  },
+  "license": "MIT",
+  "keywords": ["zenject", "extenject", "di", "ioc"]
+}
