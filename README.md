@@ -26,6 +26,10 @@ Sample games, internal unit/integration tests and AutoMocking archives from the 
 
 Larje packages detect this package through `versionDefines` and enable their `Larje.*.Zenject` installer assemblies automatically.
 
+## Local changes
+
+- `Runtime/Source/Util/UnityUtil.cs`, `Runtime/Source/Install/Contexts/ProjectContext.cs`: deprecated `FindObjectsOfType` replaced with `FindObjectsByType` (sort-mode overload before Unity 6000.4).
+
 ## License
 
 MIT, see `LICENSE.md`. Copyright (c) 2010-2015 Modest Tree Media, Extenject contributors.
