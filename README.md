@@ -7,7 +7,7 @@ Extenject 9.2.0 (https://github.com/Mathijs-Bakker/Extenject), the maintained fo
 Add to `Packages/manifest.json`:
 
 ```json
-"com.larje.zenject": "https://github.com/danil777lar/com.larje.zenject.git#9.2.0"
+"com.larje.zenject": "https://github.com/danil777lar/unity-zenject-upm.git"
 ```
 
 Remove `Assets/Plugins/Zenject` first if Extenject was imported from the Asset Store, otherwise the assemblies conflict.
